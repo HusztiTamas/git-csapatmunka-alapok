@@ -1,1 +1,1 @@
-# git-xsapatmunka-alapok
+# git-csapatmunka-alapok
